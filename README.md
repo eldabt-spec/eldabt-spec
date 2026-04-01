@@ -52,10 +52,6 @@ My background is a little unconventional — I started with a Master's in Bacter
 | Project | Description | Stack |
 |---|---|---|
 | [`isobodyfit`](https://github.com/eldabt-spec/isobodyfit) | Coach-led MAT fitness platform connecting coaches with remote & studio clients — includes mobility assessments, personalised weekly programmes, and a workout log | React, Vite, Express, Prisma, PostgreSQL, Netlify |
-| `selenium-test-framework` | Page Object Model test suite with CI integration | Robot Framework, SeleniumLibrary |
-| `sql-data-validation` | Scripts for validating complex financial data structures | SQL |
-| `qa-documentation-templates` | Reusable test plans, bug report templates & checklists | Markdown |
-| `api-testing-collection` | REST API test collections with automated assertions | Postman / Newman |
 
 ---
 
