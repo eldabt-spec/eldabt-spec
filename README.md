@@ -47,15 +47,6 @@ My background is a little unconventional — I started with a Master's in Bacter
 
 ## 📌 Featured Projects
 
-> *(Pinned repos will appear here — see below for what to add)*
-
-| Project | Description | Stack |
-|---|---|---|
-| `selenium-test-framework` | Page Object Model test suite with CI integration | Robot Framework, SeleniumLibrary |
-| `sql-data-validation` | Scripts for validating complex financial data structures | SQL |
-| `qa-documentation-templates` | Reusable test plans, bug report templates & checklists | Markdown |
-| `api-testing-collection` | REST API test collections with automated assertions | Postman / Newman |
-
 ---
 
 ## 💼 Career Highlights
