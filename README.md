@@ -17,7 +17,7 @@ Toronto, ON 🇨🇦 &nbsp;|&nbsp; US Citizen &nbsp;|&nbsp; Permanent Resident o
 
 I'm a Senior QA Analyst with 10+ years of experience ensuring software quality across fintech, healthcare, legal tech, and marketing technology. I specialize in **test automation**, **data validation with SQL**, and building frameworks that scale.
 
-My background is a little unconventional — I started with a Master's in Bacteriology (yes, really 🧫), which gave me a deep appreciation for precision, methodology, and evidence-based thinking. That mindset transfers directly into how I approach quality assurance.
+My background is a little unconventional — I started with a Master's in Bacteriology, which gave me a deep appreciation for precision, methodology, and evidence-based thinking. That mindset transfers directly into how I approach quality assurance.
 
 ---
 
